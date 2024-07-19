@@ -230,7 +230,7 @@
   }
 
   body {
-    font-family: "Roboto Mono", 'Courier New', Courier, monospace;
+    font-family: "Roboto Mono", monospace;
   }
   
   .nav-title {
