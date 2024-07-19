@@ -15,18 +15,6 @@
     -moz-osx-font-smoothing: grayscale;
   }
   
- /* FONT  */
-
- /* // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 700 */
-
-  /* .roboto-mono-<uniquifier> {
-    font-family: "Roboto Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: <100>;
-    font-style: normal;
-  } */
-  
   
   /* Main Page Layout */
   
@@ -37,9 +25,7 @@
     gap: 96px;
   }
   
-  
-  
-  
+
   /* Portfolio Header */
   
   #portfolio-header {
@@ -51,7 +37,7 @@
   #portfolio-header-image-container {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
     flex-basis: 50%;
   }
   
