@@ -3,4 +3,4 @@
 - I am skilled in Python (pandas, NumPy, SageMath, seaborn, Matplotlib), ArcGIS Pro
 - I am highly motivated and adept at learning new skills--self taught to use SQL!
 
-Take a look at some of my projects!
+Take a look at some of my projects!!
